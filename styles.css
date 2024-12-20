@@ -4,6 +4,7 @@ body {
     align-items: center;
     margin: 0;
     font-family: Arial, sans-serif;
+    font-size: small;
     background-color: #f0f0f0;
     text-align: center;
 }
@@ -55,4 +56,12 @@ nav a:hover {
 nav a.active {
     background-color: #4CAF50;
     color: white;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.font-large {
+    font-size: large;
 }
