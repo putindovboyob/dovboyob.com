@@ -66,3 +66,15 @@ nav a.active {
 .font-large {
     font-size: large;
 }
+
+.responsive-img-50 {
+    max-width: 50%;
+    height: auto;
+    padding: 2%;
+}
+
+.responsive-img-75 {
+    max-width: 75%;
+    height: auto;
+    padding: 1%;
+}
